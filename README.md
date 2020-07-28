@@ -59,7 +59,8 @@ Instead of cloning the repository to your desktop, you can also go to `README.md
 * [ ]  Your coworkers
 * [ ]  Your users
 
-###### 2. As a code base grows, which sections might you add to your README?
+##### Question 2
+ As a code base grows, which sections might you add to your README?
 
 * [ ] Known bugs
 * [ ] Frequently asked questions
