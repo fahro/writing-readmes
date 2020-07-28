@@ -2,18 +2,18 @@
 
  Here, you can find some supplemental resources for writing good READMEs.
 
-## Topics
-###### What is documentation?
-###### Why do we need it?
-###### Who is documentation for?
-###### [First question](#Question-1)
-###### [Resources](#Resources)
-###### [Sample READMEs](#Sample-READMEs)
-###### [Second question](#Question-2)
-###### Demo
-###### Workshop
-###### Suggestions! Documentation day?
-###### Bad Examples
+### Concepts
+> What is documentation?
+> Why do we need it?
+> Who is documentation for?
+> [First question](#Question-1)
+> [Resources](#Resources)
+> [Sample READMEs](#Sample-READMEs)
+> [Second question](#Question-2)
+> Demo
+> Workshop
+> Suggestions! Documentation day?
+> Bad Examples
 
 
 ## Resources
