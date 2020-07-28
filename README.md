@@ -5,33 +5,17 @@
 ## Topics
 ###### What is documentation?
 ###### Why do we need it?
-###### Who is Documentation For?
-###### [First Question](#Question-1)
+###### Who is documentation for?
+###### [First question](#Question-1)
 ###### [Resources](#Resources)
 ###### [Sample READMEs](#Sample-READMEs)
-###### [Second Question](#Question-2)
+###### [Second question](#Question-2)
 ###### Demo
 ###### Workshop
-###### Suggestions
+###### Suggestions! Documentation day?
 ###### Bad Examples
 
 
-## Questions
-
-##### Question 1
- With the above in mind, who might be a potential end-user of documentation? Select all that apply:
-* [ ]  You
-* [ ]  Your coworkers
-* [ ]  Your users
-
-###### 2. As a code base grows, which sections might you add to your README?
-
-* [ ] Known bugs
-* [ ] Frequently asked questions
-* [ ] Press your project has received
-* [ ] Table of contents
-* [ ] Pictures of your cat
-  
 ## Resources
 
 * [Choose A License](http://choosealicense.com/) - Helpful website for picking out a license for your project.
@@ -65,6 +49,24 @@ Once you've pushed changes to your local repository, you can issue a pull reques
 ![Pull Request Icon](images/pull-request-icon.png)
 
 Instead of cloning the repository to your desktop, you can also go to `README.md` in your fork on GitHub.com, hit the Edit button (the button with the pencil) to edit the file in your browser, then hit the `Propose file change` button, and finally make a pull request. 
+
+
+## Questions
+
+##### Question 1
+ With the above in mind, who might be a potential end-user of documentation? Select all that apply:
+* [ ]  You
+* [ ]  Your coworkers
+* [ ]  Your users
+
+###### 2. As a code base grows, which sections might you add to your README?
+
+* [ ] Known bugs
+* [ ] Frequently asked questions
+* [ ] Press your project has received
+* [ ] Table of contents
+* [ ] Pictures of your cat
+  
 
 ## License
 
