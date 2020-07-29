@@ -44,9 +44,7 @@ As you examine each of the README's, take note of the following:
 * What are the exact steps that need to be taken to get this code base up and running?
 * What should users already have installed or configured?
 * What might they have a hard time understanding right away?
-  
-**It is important to be mindful ot the assumptions you make about what the user is expected to know!**
-
+**The important part is that you communicate clearly and concisely any information that is essential for the user!**
 
 
 ## How to Contribute
