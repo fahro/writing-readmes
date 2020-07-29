@@ -95,7 +95,7 @@ Instead of cloning the repository to your desktop, you can also go to `README.md
 
 ## Documentation day
 
-"On the last Friday every month?" -- Rysiek
+"Let's do it on the last Friday of  every month?" -- Rysiek
 
 ![Pull Request Icon](images/documentation-day.png)
 
