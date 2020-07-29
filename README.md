@@ -3,9 +3,10 @@
  Here, you can find some supplemental resources for writing good READMEs.
 
 ### Concepts
->* Why do we need it?
+>* What is documentation?
+>* [Why do we need documentation?](#why-do-we-need-documentation)
 >* Who is documentation for?
->* [First question](#Question-1)
+>* [First question](#question-1)
 >* [Resources](#Resources)
 >* [Sample READMEs](#Sample-READMEs)
 >* [Second question](#Question-2)
@@ -13,6 +14,8 @@
 >* Workshop
 >* [Documentation day?](#Documentation-day)
 >* Bad Examples
+
+
 
 
 ## Resources
@@ -51,11 +54,16 @@ Instead of cloning the repository to your desktop, you can also go to `README.md
 
 
 ## To Do
+ Add more questions
+
+
+## Questions
 
 ##### Question 1
  Who might be a potential end-user of documentation? Select all that apply:
 * [ ]  You
 * [ ]  Your coworkers
+* [ ]  Your contributors
 * [ ]  Your users
 
 ##### Question 2
@@ -76,6 +84,8 @@ On the last Friday every month?
 ![Pull Request Icon](images/documentation-day.png)
 
 
+## Why do we need documentation?
+![Why do we need documentation](images/why_documentation.jpg)
 
 ## License
 
