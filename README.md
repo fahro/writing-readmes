@@ -6,10 +6,10 @@
 >* What is documentation?
 >* Why do we need documentation?
 >* Who is documentation for?
->* What to include in documentation?
 >* [First question](#question-1)
->* [Resources](#Resources)
+>* What to include in documentation?
 >* [Sample READMEs](#Sample-READMEs)
+>* [Resources](#Resources)
 >* [Second question](#Question-2)
 >* Demo
 >* Workshop
@@ -26,6 +26,13 @@
 * [Online Markdown Editor](https://rentry.co//) - Online write and share markdown content.
   
 ## Sample READMEs
+Consider four README's for four different projects below:
+
+As you examine each of the README's, take note of the following:
+
+>* What information is being communicated?
+>* How is this information structured?
+>* Do you notice any patterns?
 
 * [Aleph](https://github.com/alephdata/aleph) - Aleph is a tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search.. The documentation is thorough and complete, so anybody can use it!
 * [factory_bot](https://github.com/thoughtbot/factory_bot) - An open source project maintained by thoughtbot. Great example of simple instructions to get you set up, which then links to external documentation.
