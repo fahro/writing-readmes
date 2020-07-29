@@ -7,8 +7,8 @@
 >* Why do we need documentation?
 >* Who is documentation for?
 >* [First question](#question-1)
->* What to include in documentation?
 >* [Sample READMEs](#Sample-READMEs)
+>* [What to include in documentation?](#what-to-include-in-documentation)
 >* [Resources](#Resources)
 >* [Second question](#Question-2)
 >* Demo
@@ -38,6 +38,16 @@ As you examine each of the README's, take note of the following:
 * [factory_bot](https://github.com/thoughtbot/factory_bot) - An open source project maintained by thoughtbot. Great example of simple instructions to get you set up, which then links to external documentation.
 * [can.viewify](https://github.com/zkat/can.viewify) - Awesome example of someone documenting her personal projects concisely.
 * [ecommerce](https://github.com/kkosiba/ecommerce-backend) - This README is for one ecommerce backend app.
+
+
+## What to include in documentation? 
+* What are the exact steps that need to be taken to get this code base up and running?
+* What should users already have installed or configured?
+* What might they have a hard time understanding right away?
+  
+**It is important to be mindful ot the assumptions you make about what the user is expected to know!**
+
+
 
 ## How to Contribute
 
