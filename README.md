@@ -4,8 +4,9 @@
 
 ### Concepts
 >* What is documentation?
->* [Why do we need documentation?](#why-do-we-need-documentation)
+>* Why do we need documentation?
 >* Who is documentation for?
+>* What to include in documentation?
 >* [First question](#question-1)
 >* [Resources](#Resources)
 >* [Sample READMEs](#Sample-READMEs)
@@ -79,13 +80,11 @@ Instead of cloning the repository to your desktop, you can also go to `README.md
 
 ## Documentation day
 
-On the last Friday every month?
+"On the last Friday every month?" -- Rysiek
 
 ![Pull Request Icon](images/documentation-day.png)
 
 
-## Why do we need documentation?
-![Why do we need documentation](images/why_documentation.jpg)
 
 ## License
 
