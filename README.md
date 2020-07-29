@@ -53,7 +53,7 @@ Instead of cloning the repository to your desktop, you can also go to `README.md
 ## To Do
 
 ##### Question 1
- With the above in mind, who might be a potential end-user of documentation? Select all that apply:
+ Who might be a potential end-user of documentation? Select all that apply:
 * [ ]  You
 * [ ]  Your coworkers
 * [ ]  Your users
