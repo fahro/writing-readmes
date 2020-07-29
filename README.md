@@ -1,7 +1,7 @@
 # Writing READMEs README
 
  Here, you can find some supplemental resources for writing good READMEs.
-
+![Why do we need documentation](images/why_documentation.jpg)
 ### Concepts
 >* What is documentation?
 >* Why do we need documentation?
