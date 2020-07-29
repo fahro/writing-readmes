@@ -3,7 +3,6 @@
  Here, you can find some supplemental resources for writing good READMEs.
 
 ### Concepts
->* What is documentation?
 >* Why do we need it?
 >* Who is documentation for?
 >* [First question](#Question-1)
@@ -12,7 +11,7 @@
 >* [Second question](#Question-2)
 >* Demo
 >* Workshop
->* Suggestions! Documentation day?
+>* [Documentation day?](#Documentation-day)
 >* Bad Examples
 
 
@@ -21,7 +20,7 @@
 * [Choose A License](http://choosealicense.com/) - Helpful website for picking out a license for your project.
 * [Github flavored markdown reference](https://help.github.com/categories/writing-on-github/) - Github's own documentation about documentation.
 * [Online Markdown Editor](https://rentry.co//) - Online write and share markdown content.
-*  
+  
 ## Sample READMEs
 
 * [Aleph](https://github.com/alephdata/aleph) - Aleph is a tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search.. The documentation is thorough and complete, so anybody can use it!
@@ -51,7 +50,7 @@ Once you've pushed changes to your local repository, you can issue a pull reques
 Instead of cloning the repository to your desktop, you can also go to `README.md` in your fork on GitHub.com, hit the Edit button (the button with the pencil) to edit the file in your browser, then hit the `Propose file change` button, and finally make a pull request. 
 
 
-## Questions
+## To Do
 
 ##### Question 1
  With the above in mind, who might be a potential end-user of documentation? Select all that apply:
@@ -64,10 +63,19 @@ Instead of cloning the repository to your desktop, you can also go to `README.md
 
 * [ ] Known bugs
 * [ ] Frequently asked questions
-* [ ] Press your project has received
+* [ ] How popular  your project has become
 * [ ] Table of contents
 * [ ] Pictures of your cat
   
+
+
+## Documentation day
+
+On the last Friday every month?
+
+![Pull Request Icon](images/documentation-day.png)
+
+
 
 ## License
 
