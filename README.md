@@ -6,11 +6,10 @@
 >* What is documentation?
 >* Why do we need documentation?
 >* Who is documentation for?
->* [First question](#question-1)
 >* [Sample READMEs](#Sample-READMEs)
 >* [What to include in documentation?](#what-to-include-in-documentation)
 >* [Resources](#Resources)
->* [Second question](#Question-2)
+>* [Questions](#questions)
 >* Demo
 >* Workshop
 >* [Documentation day?](#Documentation-day)
@@ -41,9 +40,10 @@ As you examine each of the README's, take note of the following:
 
 
 ## What to include in documentation? 
-* What are the exact steps that need to be taken to get this code base up and running?
-* What should users already have installed or configured?
-* What might they have a hard time understanding right away?
+>* What are the exact steps that need to be taken to get this code base up and running?
+>* What should users already have installed or configured?
+>* What might they have a hard time understanding right away?
+
 **The important part is that you communicate clearly and concisely any information that is essential for the user!**
 
 
